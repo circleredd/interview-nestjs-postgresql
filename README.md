@@ -26,6 +26,12 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Package
+
+- DataBase: PostgreSQL with TypeORM
+- Authentication: JsonWebToken & Passport
+- Encryption: bcrypt
+
 ## Installation
 
 ```bash
